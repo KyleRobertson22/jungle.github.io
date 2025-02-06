@@ -47,7 +47,14 @@
         <p class="quote">"To win the game, is to not play with it."</p>
         <p class="author">- Anonymous</p>
     </div>
-
+<script>
+       setTimeout(function() {
+    var floatingDivs = document.querySelectorAll(".floating");
+    floatingDivs.forEach(function(div) {
+        div.style.display = "none"; // Hides all divs with class 'floating'
+    });
+}, 2000);
+    </script>
 </body>
 </html>
 
