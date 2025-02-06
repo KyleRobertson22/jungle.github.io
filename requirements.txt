@@ -1,4 +1,2 @@
-sphinx
-sphinx-rtd-theme
-alabaster
+
 myst-parser  # (Only if using Markdown)
