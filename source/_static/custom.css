@@ -14,3 +14,6 @@ main {
 .floating{
     display: none !important;
 }
+.rst-versions {
+    display: none !important;
+}
